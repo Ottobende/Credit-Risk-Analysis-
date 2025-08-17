@@ -56,7 +56,7 @@ to calculate default rates, distributions, and correlations.
 
 Below is the Power BI dashboard designed for this project:
 
-![Credit Risk Dashboard](0FA5046F-A84F-4F28-B047-9682B0536691.jpeg)
+![image alt](https://github.com/Ottobende/Credit-Risk-Analysis-/blob/main/Credit%20Risk%20Analysis%20Visualization%20Screenshot%20.JPG)
 
 **Dashboard Features:** - KPI cards: Total Loans, Total Defaults,
 Default Rate (%), Avg Loan Amount.\
